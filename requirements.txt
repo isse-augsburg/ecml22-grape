@@ -1,0 +1,12 @@
+pytorch==1.7.0
+torchvision==0.8.0
+torchaudio==0.7.0
+cpuonly
+dgl==0.7
+h5py
+matplotlib
+mlflow
+networkx
+scikit-learn
+tqdm
+optuna
